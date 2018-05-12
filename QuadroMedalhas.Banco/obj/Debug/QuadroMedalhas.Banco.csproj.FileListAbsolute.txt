@@ -1,0 +1,10 @@
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\obj\Debug\QuadroMedalhas.Banco.csprojResolveAssemblyReference.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\obj\Debug\QuadroMedalhas.Banco.csproj.CoreCompileInputs.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\bin\Debug\QuadroMedalhas.Banco.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\bin\Debug\QuadroMedalhas.Banco.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\bin\Debug\QuadroMedalhas.Utilitarios.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\bin\Debug\QuadroMedalhas.Utilitarios.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\obj\Debug\QuadroMedalhas.Banco.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Banco\obj\Debug\QuadroMedalhas.Banco.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Banco.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Banco.pdb

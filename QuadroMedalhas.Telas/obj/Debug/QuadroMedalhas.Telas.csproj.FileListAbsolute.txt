@@ -1,0 +1,17 @@
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.csprojResolveAssemblyReference.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.Properties.Resources.resources
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.csproj.GenerateResource.Cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.csproj.CoreCompileInputs.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Telas.dll.config
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Telas.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Telas.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Utilitarios.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Utilitarios.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Banco.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\bin\Debug\QuadroMedalhas.Banco.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Telas\obj\Debug\QuadroMedalhas.Telas.FrmPais.resources
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Telas.dll.config
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Telas.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Telas.pdb

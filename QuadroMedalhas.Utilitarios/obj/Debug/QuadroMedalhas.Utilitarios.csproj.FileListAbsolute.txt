@@ -1,0 +1,8 @@
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\bin\Debug\QuadroMedalhas.Utilitarios.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\bin\Debug\QuadroMedalhas.Utilitarios.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\obj\Debug\QuadroMedalhas.Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\obj\Debug\QuadroMedalhas.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\obj\Debug\QuadroMedalhas.Utilitarios.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\QuadroMedalhas.Utilitarios\obj\Debug\QuadroMedalhas.Utilitarios.pdb
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Utilitarios.dll
+C:\Users\Rita\source\repos\QuadroMedalhas\Programa\QuadroMedalhas.Utilitarios.pdb
